@@ -166,9 +166,9 @@
 #define TFT_RST   14  // Reset pin (could connect to RST pin)
 //#define TFT_RST  -1  // Set TFT_RST to -1 if display RESET is connected to ESP32 board RST
 
-#define TFT_BL   32  // LED back-light (only for ST7789 with backlight control pin)
+//#define TFT_BL   32  // LED back-light (only for ST7789 with backlight control pin)
 
-#define TOUCH_CS 21     // Chip select pin (T_CS) of touch screen
+//#define TOUCH_CS 21     // Chip select pin (T_CS) of touch screen
 
 //#define TFT_WR 22    // Write strobe for modified Raspberry Pi TFT only
 
